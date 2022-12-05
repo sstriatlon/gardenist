@@ -6,4 +6,4 @@
 
 
 # Gardenist.github.io
-### An app for backyard organic gardens diagraming. Plan ahead the season, optimize the space you have and increase it's yield.
+### An app for backyard organic gardens diagraming. Plan ahead the season, optimize the space you have and increase it's yield. 
