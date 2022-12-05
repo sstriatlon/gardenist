@@ -1,10 +1,12 @@
-name: Development
+name: deployment
 
-on:
+on: 
+  workflow_dispatch:
   push:
     branches:
-      -"main"
-
+      - main
+  pull_request:
+  
 jobs:
   test:
     name: Test application
